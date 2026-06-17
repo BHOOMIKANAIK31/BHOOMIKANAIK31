@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Bhoomika Naik
 
-### Java Full Stack Trainee | Spring Boot | REST APIs | AWS & DevOps Learner
+### Java Backend Trainee | Spring Boot | REST APIs | AWS & DevOps Learner
 
 ---
 
