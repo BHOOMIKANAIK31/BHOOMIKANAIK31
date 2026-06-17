@@ -1,39 +1,32 @@
- Hi there 👋,I'm Bhoomika Naik
- 
+# 👋 Hi, I'm Bhoomika Naik
 
+### Java Full Stack Trainee | Spring Boot | REST APIs | AWS & DevOps Learner
 
-Aspiring Java Backend Trainee | DevOps Learner
+---
 
+## 👨‍💻 About Me
 
+* 🎓 Electronics & Communication Engineering Graduate
+* 💻 Passionate about Java Backend Development and Spring Boot
+* 🚀 Building RESTful APIs and backend applications using Java and Spring Framework
+* 🔐 Familiar with Spring Security, Authentication & Authorization
+* 🌐 Working with Spring Boot, REST APIs, MySQL, Hibernate & JPA
+* ☁️ Currently learning AWS Cloud, Docker, Git, GitHub and DevOps Fundamentals
+* 📚 Continuously learning Data Structures & Algorithms, Microservices and System Design
+* 📫 Reach me at: [18004bhoomikanaik@gmail.com](mailto:18004bhoomikanaik@gmail.com)
 
- 👨‍💻 About Me
+---
 
-🎓 Electronics & Communication Engineering Graduate (2025)
-
-💻 Passionate about Java Backend Development and Spring Boot
-
-🚀 Building RESTful APIs and backend applications using Java and Spring Framework
-
-🔐 Familiar with Spring Security, Authentication & Authorization
-
-🌐 Working with Spring Boot, REST APIs, MySQL, Hibernate & JPA
-
-☁️ Currently learning AWS Cloud, Docker, Git, GitHub and DevOps Fundamentals
-
-📚 Continuously learning Data Structures & Algorithms
-
-
-
-📫 Reach me at: 18004bhoomikanaik@gmail.com
-
-🌐 Connect With Me:
+## 🌐 Connect With Me
 
 * LinkedIn: https://linkedin.com/in/bhoomika-naik
 * GitHub: https://github.com/BHOOMIKANAIK31
 
+---
 
-🚀 Featured Projects
- 🏢 Employee Management REST API
+## 🚀 Featured Projects
+
+### 🏢 Employee Management REST API
 
 **Spring Boot | Spring Security | JPA | Hibernate | Swagger | MySQL**
 
@@ -45,11 +38,17 @@ Aspiring Java Backend Trainee | DevOps Learner
 * Spring Security Authentication
 * Swagger API Documentation
 
+🔗 Live Demo: https://employee-management-system-restapi.onrender.com
+
+🔗 Swagger UI: https://employee-management-system-restapi.onrender.com/swagger-ui/index.html
+
+🔗 GitHub Repository: https://github.com/BHOOMIKANAIK31/Employee-Management-System--RESTAPI
+
 ---
 
-🌍 Real-Time Environmental Monitoring System
+### 🌍 Real-Time Environmental Monitoring System
 
-Arduino | IoT | Sensors | Web Technologies
+**Arduino | IoT | Sensors | Web Technologies
 
 * Real-time environmental data monitoring
 * Sensor data collection and processing
@@ -58,21 +57,19 @@ Arduino | IoT | Sensors | Web Technologies
 
 ---
 
+## ⚙️ Tech Stack
 
-
- ⚙️ Tech Stack
-
- 💻 Programming Languages
+### 💻 Programming Languages
 
 * Java
 
- 🌐 Web Technologies
+### 🌐 Web Technologies
 
 * HTML
 * CSS
 * JavaScript 
 
- ⚙️ Backend Technologies
+### ⚙️ Backend Technologies
 
 * Spring Boot
 * Spring MVC
@@ -81,13 +78,13 @@ Arduino | IoT | Sensors | Web Technologies
 * Hibernate
 * REST APIs
 
- 🗄️ Databases and Query Languages
+### 🗄️ Databases
 
 * MySQL
 * H2 Database
 * SQL
 
- 🛠️ Tools & Platforms
+### 🛠️ Tools & Platforms
 
 * Maven
 * Postman
@@ -95,15 +92,18 @@ Arduino | IoT | Sensors | Web Technologies
 * Eclipse
 * Render
 
+
 ---
 
- 📚 Currently Learning
+## 📚 Currently Learning
 
 * AWS Cloud Services
 * Docker
 * Git & GitHub
+* Microservices Architecture
 * Data Structures & Algorithms
+* System Design Fundamentals
 
 
----
 
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=BHOOMIKANAIK31)
