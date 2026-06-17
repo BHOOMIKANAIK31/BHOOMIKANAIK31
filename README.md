@@ -6,13 +6,13 @@
 
 ## 👨‍💻 About Me
 
-* 🎓 Electronics & Communication Engineering Graduate
+* 🎓 Electronics & Communication Engineering Graduate(2025)
 * 💻 Passionate about Java Backend Development and Spring Boot
 * 🚀 Building RESTful APIs and backend applications using Java and Spring Framework
 * 🔐 Familiar with Spring Security, Authentication & Authorization
 * 🌐 Working with Spring Boot, REST APIs, MySQL, Hibernate & JPA
 * ☁️ Currently learning AWS Cloud, Docker, Git, GitHub and DevOps Fundamentals
-* 📚 Continuously learning Data Structures & Algorithms, Microservices and System Design
+* 📚 Continuously learning Data Structures & Algorithms
 * 📫 Reach me at: [18004bhoomikanaik@gmail.com](mailto:18004bhoomikanaik@gmail.com)
 
 ---
@@ -48,7 +48,7 @@
 
 ### 🌍 Real-Time Environmental Monitoring System
 
-**Arduino | IoT | Sensors | Web Technologies
+**Arduino | IoT | Sensors | Web Technologies**
 
 * Real-time environmental data monitoring
 * Sensor data collection and processing
@@ -100,9 +100,8 @@
 * AWS Cloud Services
 * Docker
 * Git & GitHub
-* Microservices Architecture
 * Data Structures & Algorithms
-* System Design Fundamentals
+
 
 
 
