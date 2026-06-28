@@ -78,7 +78,7 @@
 * Hibernate
 * REST APIs
 
-### 🗄️ Databases
+### 🗄️ Databases and Query language
 
 * MySQL
 * H2 Database
